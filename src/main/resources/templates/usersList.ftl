@@ -25,6 +25,6 @@
 </#list>
 </table>
 
-<#--<a href="/addUser">Create user</a>-->
+<a href="/addUser">Create user</a>
 </body>
 </html>
