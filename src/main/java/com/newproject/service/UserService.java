@@ -1,7 +1,9 @@
 package com.newproject.service;
 
-import org.springframework.stereotype.Service;
+import com.newproject.entity.User;
 
-@Service
+import java.util.List;
+
 public interface UserService {
+    List<User> findAll();
 }
